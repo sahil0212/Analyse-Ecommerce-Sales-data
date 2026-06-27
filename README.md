@@ -45,7 +45,9 @@ This Power BI dashboard provides a comprehensive analysis of e-commerce sales da
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+## Dashboard Preview
+
+![Dashboard Preview](Dashboard.png)
 
 ## Conclusion
 This dashboard helps businesses monitor sales performance, understand customer trends, and make data-driven decisions to improve growth and profitability.
